@@ -17,4 +17,4 @@ int main() {
     cout<<sum;
     return 0;
 }
-// code by mani
+// Writtten by mani
