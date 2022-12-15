@@ -13,7 +13,7 @@ int main() {
         else
             res+=char(int(str[i]+n-97)%26+97);
     }
-    cout<<result;
+    cout<<res;
     return 0;
 }
 
